@@ -3,11 +3,11 @@ __pycache__/
 *.pyc
 
 # Models and data
-models/
+backend/models/
 data/
 
 # Node
-node_modules/
+frontend/node_modules/
 dist/
 
 # Environment
